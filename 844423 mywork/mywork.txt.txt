@@ -1,0 +1,12 @@
+My associate id:
+844423
+
+Other team members:
+844415, 844246, 844231,844227
+
+
+My role in this giftcard ux design:
+    developing the vieworder page and validating the field and submitting the forms to another page for viewing orders
+My development files:
+1. view-order.component.html
+2. view-order.component.ts
